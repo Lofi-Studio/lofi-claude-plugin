@@ -1,0 +1,13 @@
+{
+  "name": "lofi",
+  "version": "0.1.0",
+  "description": "Design and iterate low-fidelity wireframes with Claude using Lofi's component catalog, guidance and structural checks, save private boards, and review whole boards in the conversation.",
+  "author": {
+    "name": "LOFISTUDIO, Inc.",
+    "url": "https://studiolofi.com"
+  },
+  "homepage": "https://studiolofi.com",
+  "repository": "https://github.com/Lofi-Studio/lofi-claude-plugin",
+  "license": "MIT",
+  "keywords": ["design", "wireframes", "prototyping", "ux", "mcp"]
+}

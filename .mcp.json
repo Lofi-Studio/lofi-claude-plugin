@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lofi": {
+      "type": "http",
+      "url": "https://app.studiolofi.com/api/mcp/claude"
+    }
+  }
+}
