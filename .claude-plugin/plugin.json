@@ -9,5 +9,11 @@
   "homepage": "https://studiolofi.com",
   "repository": "https://github.com/Lofi-Studio/lofi-claude-plugin",
   "license": "MIT",
-  "keywords": ["design", "wireframes", "prototyping", "ux", "mcp"]
+  "keywords": [
+    "design",
+    "wireframes",
+    "prototyping",
+    "ux",
+    "mcp"
+  ]
 }
